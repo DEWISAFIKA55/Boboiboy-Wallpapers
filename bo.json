@@ -1,22 +1,24 @@
 {
   "Ads": [
     {
-      "status_app": "0",
-      "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-4585163255715630/5392144470",
-      "admob_nativeid": "ca-app-pub-4585163255715630/3736266111",
+
+      "admob_interid":"",
+      "admob_native":"",
       "admob_openid": "",
-      "admob_rewardid": "", 
+      "admob_rewardid":"",
+      "max_banner":"6f899c28a07cb808",
+      "max_inter":"1f25507085e0cbf2",
+      "max_reward":"f65883add6dd44f0",
       "interval": 1,
-      "coin_reward": 0
-    }
-  ],
-  "More":
-  [
-	{
-      "title":"mayong",
-      "image":"https://play-lh.googleusercontent.com/eaYAxU40wSmnDK6olUEVJqBXjUc-cm8dlJm643FI4-KBZkb4Nv8eJD4oUHEycEDufBc=w512-h512-n-rw",
-      "link":"https://play.google.com/store/apps/dev?id=4647418047044392735"
+      "coin_reward": 200,
+      
+      "high_paying_keyword_1": "satu",
+      "high_paying_keyword_2": "dua",
+      "high_paying_keyword_3": "tiga",
+      "high_paying_keyword_4": "empat",
+      "high_paying_keyword_5": "lima",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
 "Categories": [
